@@ -9,6 +9,7 @@ html {
 
 #container {
   display: grid;
+  height: fit-content;
   grid-template-rows: 52px 480px 500px 320px 1273px 52px;
 }
 
